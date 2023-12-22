@@ -1,0 +1,8 @@
+Int main<Main> {
+    Int :: MyInt :: 10
+    % declare an integer called MyInt to the value of 10
+    PrintI &, MyInt
+    % Print MyInt
+    Return 1
+    % Return with exit code 0
+}
